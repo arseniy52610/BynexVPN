@@ -1,0 +1,5 @@
+#profile-title: BynexVPN
+
+vless://b1ff5a6d-0ace-4837-aca8-1ce4bcf7463b@most-by.harknmav.fun:443?encryption=none&security=reality&fp=chrome&pbk=g3E2YYA0b8upu_-XVyYTYH1NnHElk6o273YQtJ0hhAo&sni=bcs.ru&sid=746655b57cc78a17&type=tcp&flow=xtls-rprx-vision#BynexVPN BY 🇧🇾
+
+vless://b1ff5a6d-0ace-4837-aca8-1ce4bcf7463b@most-fi.harknmav.fun:443?encryption=none&security=reality&fp=firefox&pbk=sTAZd6Yesl0kfJOdz_mZuQGBpjHN5HVHZzpwpGKzLTc&sni=max.ru&sid=4a752b0d4d15e0f9&type=tcp&flow=xtls-rprx-vision#BynexVPN FI 🇫🇮
